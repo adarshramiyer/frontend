@@ -44,20 +44,3 @@ function App() {
 }
 
 export default App;
-
-/*import 'bootstrap/dist/css/bootstrap.min.css';
-import React from 'react';
-import Header from './Components/Header';
-import Search from './Components/Search';
-import Container from 'react-bootstrap';
-
-const THIS = () => {
-  return (
-      <div className = "pt-20">
-        <Header title="Images Gallery" />
-      </div>
-
-  );
-}
-
-export default THIS;*/
